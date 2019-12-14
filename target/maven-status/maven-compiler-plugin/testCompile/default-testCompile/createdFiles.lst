@@ -1,0 +1,4 @@
+stepDefinitions\HooksSteps.class
+stepDefinitions\SearchSteps.class
+stepDefinitions\LoginSteps.class
+runner\TestRunner.class
