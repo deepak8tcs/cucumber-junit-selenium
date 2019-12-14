@@ -13,6 +13,7 @@ import utils.Driver;
 				,format = { "pretty", "html:test-output" }
 				,monochrome=true
 				,tags= {"@smoke"}
+				,dryRun=false
 )
 
 public class TestRunner {
