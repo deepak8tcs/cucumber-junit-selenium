@@ -1,14 +1,14 @@
-#To run the scenarios
+## To run the scenarios:
 write click on "TestRunner" class and Run As "Junit Test"
 or
 write click on project folder and Run As "Maven Build.." give command clean test or clean install and run
 
-#To check the HTML report
+##To check the HTML report:
 Go to test-output->index.html
 
-#Points on Cucumber:
+##Points on Cucumber:
 
-#Cucumber options:
+##Cucumber options:
 1.features: path of feature files
 
 2.glue: path of step definition files
@@ -64,7 +64,7 @@ we can use data tables with "Scenario"
 
 =====================
 
-#Taking screenshots in cucumber:
+##Taking screenshots in cucumber:
 
  
 
